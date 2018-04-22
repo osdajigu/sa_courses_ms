@@ -1,5 +1,4 @@
 # sa_courses_ms
-
 Microservice for Courses
 
 * Ruby
